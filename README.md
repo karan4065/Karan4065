@@ -1,5 +1,6 @@
 ## About Me:
- Hi, I'm Karan Jadhav <br><br>🎓 B.Tech IT Student @ SVPCET (CGPA: 9.20)  <br>💻 Full Stack Developer | 🤖 Machine Learning Enthusiast  <br>🚀 Passionate about building scalable and user-centric applications  
+#### Hi, I'm Karan Jadhav <br><br> 
+B.Tech IT Student @ SVPCET (CGPA: 9.20)  <br> Full Stack Developer |  Machine Learning Enthusiast  <br>Passionate about building scalable and user-centric applications  
 
 
 ## Socials:
